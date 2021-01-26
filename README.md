@@ -1,9 +1,6 @@
 # Hola👋🏾‍💻
 ![portada4github](https://user-images.githubusercontent.com/58352103/105793144-fd874f80-5f5e-11eb-9ebe-7f05f63a2b35.png)
 
-
-
-
 <p align="center">
 <a href="https://www.linkedin.com/in/ruddyqt2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ruddy%20Quispe%20Tapia-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:ruddyqt@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ruddyqt@gmail.com-blue?style=flat-square&logo=gmail"></a>
@@ -13,7 +10,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  -![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
