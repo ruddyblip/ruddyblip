@@ -6,7 +6,7 @@
     Holaaaaa! 
     <br>Apasionado del emprendimiento, la tecnología y la economía.<br>
 <p align="center">
-<br> 🛠 &nbsp;Tech Stack<br>
+</p> 🛠 &nbsp;Tech Stack</p>
 
 
 
