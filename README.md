@@ -3,10 +3,10 @@
 
 Encuentrame en la  web 🌎:
 
-- Learning in public on <a href="https://www.twitch.tv/irbintechk">Twitch</a> or  📹 ✍🏾
-- Sharing updates on <a href="https://www.linkedin.com/in/ruddyqt2/">LinkedIn</a> 💼
+- Aprendiendo en publico en  <a href="https://www.twitch.tv/irbintechk">Twitch</a>   📹 ✍🏾
+- Compartiendo actualizaciones en <a href="https://www.linkedin.com/in/ruddyqt2/">LinkedIn</a> 💼
 
 
 
 ---
-⭐️ From [Ruddy](https://github.com/ruddyblip)
+⭐️  [Ruddy](https://github.com/ruddyblip) 
